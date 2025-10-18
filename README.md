@@ -1,1 +1,6 @@
-# node_tasks
+```bash
+pnpm i
+pnpm run dev
+```
+
+
